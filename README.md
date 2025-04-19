@@ -8,15 +8,12 @@ Results Extraction: Fetches titles, links, and snippets for each search result.
 Recursive Search: Allows continuous querying until 'exit' is typed.
 Error Handling: Graceful error management for search interactions and result extraction.
 
-Requirements
+Requirements:
+
 Selenium WebDriver
-
 WebDriver-Manager
-
 ChromeDriver
-
 Install dependencies via pip:
-
 bash -> Copy -> Edit
 pip install selenium webdriver-manager
 
